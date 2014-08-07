@@ -1,3 +1,4 @@
+#
 #! /bin/sh
 #! /etc/init.d/pi_sound
 
